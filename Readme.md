@@ -29,3 +29,15 @@ for (int i = 0;i<= 100;i++){
 }
 
 ```
+
+### Adding a condition  
+
+```
+int a= 0;
+if (a==0){
+printf("it's true");
+}
+else{
+printf("it's false");
+}
+```
