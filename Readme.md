@@ -22,12 +22,14 @@ int main(){
 ### This is For loop program
 
 ```
+#inclue<stdio.h>
+int main(){
 for (int i = 0;i<= 100;i++){
 
     printf("%d I love you",i);
 
 }
-
+}
 ```
 
 ### Adding a condition  
